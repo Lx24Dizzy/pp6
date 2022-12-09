@@ -1,3 +1,3 @@
 # pp6
-![Screenshot](4.png)
-![Screenshot](3.png)
+![Screenshot](4.PNG)
+![Screenshot](3.PNG)
